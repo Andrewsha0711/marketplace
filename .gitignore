@@ -1,0 +1,13 @@
+.old/
+*bin/
+*build/
+*.gradle/
+*.settings/
+*gradle/
+*.classpath
+*.factorypath
+*.project
+*gradlew*
+*HELP*
+*private.properties
+*LOG
